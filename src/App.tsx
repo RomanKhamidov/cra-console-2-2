@@ -10,7 +10,7 @@ function App() {
       This is APP component - 2
       <Accordion titleValue={"Менюшка"} collapsed={true}/>
       <Rating value={3}/>
-    <p> Hello </p>
+    <p> Helloooo </p>
     </div>
   );
 }
