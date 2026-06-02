@@ -24,3 +24,7 @@ yarn-error.log*
 
 
 /.idea
+/src/User/User.tsx
+/src/User/User 3.tsx
+/src/User/User 2.tsx
+/src/Test/Test.tsx
